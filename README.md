@@ -13,7 +13,7 @@ The assignments are organized into **6 sections**, covering SQL fundamentals fro
 | Section 1 | Basic SELECT & Filtering           | ✅ Completed |
 | Section 2 | Sorting & Top-N                    | ✅ Completed |
 | Section 3 | Aggregate Functions & Grouping     | ⏳ Remaining |
-| Section 4 | JOINs                              | ⏳ Remaining |
+| Section 4 | JOINs                              | ✅ Completed |
 | Section 5 | Subqueries & Advanced Queries      | ⏳ Remaining |
 | Section 6 | Advanced SQL / Database Operations | ⏳ Remaining |
 
